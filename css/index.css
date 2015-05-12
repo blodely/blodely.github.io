@@ -1,5 +1,5 @@
 #build {
-	padding:10;
+	padding:0;
 	margin:0 auto;
 	background-color:#eee;
 	width:800px;
@@ -10,4 +10,25 @@
 	text-align:center;
 	color:#888;
 	font-size:20pt;
+}
+
+.side_title {
+
+	width: 14em;
+	height: 100%;
+	background-color: #888888;
+	float: left;
+}
+
+.top_p_title {
+
+	/*float: left;*/
+	height: 12em;
+	width: 100%;
+	background-color: #f0f0f1;
+}
+
+.main_content {
+
+	background-color: #ef0;
 }
