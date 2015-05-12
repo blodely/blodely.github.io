@@ -74,3 +74,6 @@ xcuserdata
 Podfile.lock
 Pods
 Pods/*
+
+# TEXTMATE
+*.tmproj
