@@ -1,0 +1,95 @@
+body {
+	background-color:#ddd;
+}
+
+.code {
+	padding:10px;
+	background-color:#F1F1F1;
+	font-family:courier;
+	color:#191919;
+}
+
+.photoframe {
+	width:620px;
+	height:310px;
+	padding:10px 0 0 0;
+	background-color:#FFF;
+}
+
+.photo {
+	width:600px;
+	height:300px;
+/*	top:10px;*/
+	margin:0 10px 10px 10px;
+	background-color:#8F8F8F;
+/*	max-width:400px;*/
+/*	max-height:200px;*/
+}
+
+#rasp_001 {
+	background-image:url(../img/rasp_a/raspi-001-20150527-1001.jpg);
+}
+#rasp_002 {
+	background-image:url(../img/rasp_a/raspi-002-20150527-1001.jpg);
+}
+#rasp_003 {
+	background-image:url(../img/rasp_a/raspi-003-20150527-1001.jpg);
+}
+#rasp_004 {
+	background-image:url(../img/rasp_a/raspi-004-20150527-1001.jpg);
+}
+#rasp_005 {
+	background-image:url(../img/rasp_a/raspi-005-20150527-1001.jpg);
+}
+#rasp_006 {
+	background-image:url(../img/rasp_a/raspi-006-20150527-1001.jpg);
+}
+#rasp_007 {
+	background-image:url(../img/rasp_a/raspi-007-20150527-1001.jpg);
+}
+#rasp_008 {
+	background-image:url(../img/rasp_a/raspi-008-20150527-1001.jpg);
+}
+#rasp_009 {
+	background-image:url(../img/rasp_a/raspi-009-20150527-1001.jpg);
+}
+#rasp_010 {
+	background-image:url(../img/rasp_a/raspi-010-20150527-1001.jpg);
+}
+#rasp_011 {
+	background-image:url(../img/rasp_a/raspi-011-20150527-1001.jpg);
+}
+#rasp_012 {
+	background-image:url(../img/rasp_a/raspi-012-20150527-1001.jpg);
+}
+#rasp_013 {
+	background-image:url(../img/rasp_a/raspi-013-20150527-1001.jpg);
+}
+#rasp_014 {
+	background-image:url(../img/rasp_a/raspi-014-20150527-1001.jpg);
+}
+#rasp_015 {
+	background-image:url(../img/rasp_a/raspi-015-20150527-1001.jpg);
+}
+#rasp_016 {
+	background-image:url(../img/rasp_a/raspi-016-20150527-1001.jpg);
+}
+#rasp_017 {
+	background-image:url(../img/rasp_a/raspi-017-20150527-1001.jpg);
+}
+#rasp_101 {
+	background-image:url(../img/rasp_a/raspi-101-20150527-1001.jpg);
+}
+
+
+.txt {
+	color:#ffffff;
+	background-color:#a90ca7;
+	padding:3px 3px 2px 4px;
+	font-family: georgia;
+}
+
+.it {
+	font-style:italic;
+	color:#5f5f5f;
+}
