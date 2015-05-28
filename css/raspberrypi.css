@@ -32,9 +32,6 @@ body {
 #rasp_002 {
 	background-image:url(../img/rasp_a/raspi-002-20150527-1001.jpg);
 }
-#rasp_003 {
-	background-image:url(../img/rasp_a/raspi-003-20150527-1001.jpg);
-}
 #rasp_004 {
 	background-image:url(../img/rasp_a/raspi-004-20150527-1001.jpg);
 }
@@ -84,6 +81,21 @@ body {
 	background-image: url(../img/rasp_a/raspi-102-20150527-1001.jpg);
 }
 
+.title1 {
+	margin: 30px 0 10px 10px;
+	font-size: 24px;
+	font-style: bold;
+}
+
+.title3 {
+	margin: 10px 0 10px 10px;
+	font-size: 16px;
+	font-style: italic;
+}
+
+.spaceline {
+	margin: 0 0 50px 0;
+}
 
 .txt {
 	color:#ffffff;
