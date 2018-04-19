@@ -88,15 +88,14 @@
 <div class="ui segment">
 <!-- <div class="ui divider"></div> -->
 <div class="ui divided items" id="cv-exp">
-<!--
-div.item>div.ui-tiny-image+div.content>div.header+div.description+div.meta
- -->
+
 <div class="item">
 	<div class="content">
 		<h2 class="ui header">Experience</h1>
 	</div>
 </div>
 
+<!-- div.item>div.ui-tiny-image+div.content>div.header+div.description+div.meta -->
 <script type="text/javascript">
 $.getJSON('./data/cv_experience.json', function(result) {
 	for (idx in result["data"]) {
@@ -116,20 +115,6 @@ $.getJSON('./data/cv_experience.json', function(result) {
 });
 </script>
 
-<!--
-<div class="item">
-	<div class="ui tiny image"><img src="img/company/logo-logo.png" alt=""></div>
-	<div class="content">
-		<div class="header"><i class="tag icon"></i>公司</div>
-		<div class="description">CompanyName</div>
-		<div class="meta">2010年1月 ~ 2010年1月</div>
-		<div class="description">
-description_description
-		</div>
-	</div>
-</div>
-
--->
 </div><!-- ui items -->
 </div><!-- segment -->
 
@@ -143,6 +128,9 @@ description_description
 </div>
 </div>
 
+<!-- div.item>div.ui.tiny.rounded.image+div.content>div.header+div.meta+div.description -->
+<!-- <i class="app store icon"></i> -->
+<!-- target="_blank" -->
 <script type="text/javascript">
 $.getJSON('./data/cv_projects.json', function(result) {
 	for (idx in result["data"]) {
@@ -162,17 +150,7 @@ $.getJSON('./data/cv_projects.json', function(result) {
 	}
 });
 </script>
-<!--
-SAMPLE
-<div class="item">
-	<div class="ui tiny rounded image"><img src="img/ygwjw/yg-00.jpg" alt=""></div>
-	<div class="content">
-		<div class="header">阳光微警务</div>
-		<div class="meta"><i class="app store icon"></i>地址: <a href="https://itunes.apple.com/cn/app/id1146685617" target="_blank">https://itunes.apple.com/cn/app/id1146685617</a></div>
-		<div class="description">该项目为武汉市江岸公安分局打造一款互联网+的工作平台，以提升严重精神障碍患者的社会保障水平。使用Objective-C为主进行编写，部分子功能使用Swift。项目架构采用严格的MVC，使用分离的nib文件方式构建UI，有一套基于AFNetworking 3.x的网络中间层，以及一些配置管理，文件输入输出工具包等等设计较为独立的模块。使用Cocoapods进行依赖管理。</div>
-	</div>
-</div>
--->
+
 </div><!-- items -->
 </div><!-- segment -->
 
@@ -185,10 +163,9 @@ SAMPLE
 <div class="ui centered container" style="font-family:Georgia; color:grey;">
 
 <div class="content">
-	<div>本页使用HTML + CSS + JavaScript + Semantic UI手写而成. Editor: Atom</div>
+	<div>本页使用HTML + CSS + JavaScript + jQuery + Semantic UI手写而成. Editor: Atom</div>
 	<br>
 	<div>Copyright © 2018, 骆昱 (Luo Yu).</div>
-	<!-- <div>Tel: <a href="tel://+8613986213146" style="color:grey;">+86-139-8621-3146</a>&nbsp;&nbsp;&nbsp; Email: <a href="mailto:indie.luo@gmail.com" style="color:grey;">indie.luo@gmail.com</a></div> -->
 </div>
 
 </div>
