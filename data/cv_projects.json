@@ -12,19 +12,19 @@
       "name": "光谷微警务",
       "url": "https://itunes.apple.com/cn/app/id1213726951",
       "icon": "img/ggwjw/gg-00.jpg",
-      "description": "该项目使用Objective-C为主、透过公司私有的Cocoapods进行独立模块化设计与开发。"
+      "description": "该项目使用Objective-C为主、透过公司私有的Cocoapods进行独立模块化设计与开发。<br>包含定位+视频+图片+音频的报警功能; 视频监控功能(视频流直播); 视频会议/视频连线功能(WebRTC视频通话); 其他业务(表单/审批)等."
     },
     {
       "name": "移动微警务",
       "url": "https://itunes.apple.com/cn/app/id1266282201",
       "icon": "img/ydwjw/yd-00.jpg",
-      "description": ""
+      "description": "使用模块化设计组件的微警务应用。"
     },
     {
       "name": "PP语音",
       "url": "https://itunes.apple.com/cn/app/id927300490",
       "icon": "img/ppcall/pp-00.jpg",
-      "description": "PP语音 iOS app. 包含语音录制与播放，拍照，支付等功能。"
+      "description": "PP语音 iOS app. 是一款电话社交类应用; 包含语音录制与播放，拍照，支付等功能。"
     },
     {
       "name":"趣省",
