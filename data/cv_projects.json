@@ -24,13 +24,25 @@
       "name": "PP语音",
       "url": "https://itunes.apple.com/cn/app/id927300490",
       "icon": "img/ppcall/pp-00.jpg",
-      "description": ""
+      "description": "PP语音 iOS app. 包含语音录制与播放，拍照，支付等功能。"
     },
     {
       "name":"趣省",
-      "url":"",
+      "url":"https://itunes.apple.com/cn/app/id1028944716",
       "icon":"img/yome/qu-00.jpg",
-      "description":""
+      "description":"由米定制开发与运营的一款导购类的应用。包含导购，定制，团购活动，移动支付等功能。"
+    },
+    {
+      "name":"M37",
+      "url":"https://itunes.apple.com/us/app/m37/id766526284",
+      "icon":"",
+      "description":"一款服务于芝加哥的写字楼会员订桌应用. 包含室内地图，信用卡支付等功能。"
+    },
+    {
+      "name":"BoothBuddy",
+      "url":"https://itunes.apple.com/us/app/boothbuddy/id675481294",
+      "icon":"",
+      "description":"一款服务于芝加哥Sports bars订桌应用. 包含菜单预览，信用卡支付等功能。"
     }
   ]
 }
