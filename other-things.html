@@ -44,6 +44,7 @@ $.getJSON('./data/other_things.json', function(result) {
     $(colname).append("\
     <div class=\"ui card\">\
       <div class=\"content\"><h3 class=\"header\">" + item["title"] + "</h3></div>\
+      " + (item["photo"] != '' ? "<div class=\"content\"><div class=\"ui image\"><img src=\"" + item["photo"] + "\" alt=\"\" /></div></div>" : "")+ "\
       <div class=\"content\">\
         <div class=\"header\"></div>\
         <div class=\"description\">" + item["content"] + "</div>\
