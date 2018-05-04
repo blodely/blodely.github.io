@@ -24,7 +24,7 @@
       "title": "ArchLinux on Raspberry Pi",
       "content": "抽空把树莓派(Raspberry Pi B2+)调整了下. <br>大概是因为主频不够+内存不够的原因吧, 之前用Raspbian会时不时卡一下. <br>想来要保持占用资源小, 又一直需要保持最新, 无需GUI, 就换Arch-ARM了. <br>",
       "timestamp": "Saturday, April 21, 2018",
-      "photo": ""
+      "photo": "./img/ot/ot-arch-rasp.png"
     },
     {
       "title": "Email",
@@ -90,7 +90,7 @@
       "title": "GitHub: LYSpecs",
       "content": "做了个私有Cocoapods仓库;<br>把我的iOS开源库都丢进去,<br>方便通过pod来使用.",
       "timestamp": "Friday, November 18, 2016",
-      "photo": ""
+      "photo": "./img/ot/ot-lyspecs.png"
     },
     {
       "title": "Gitlab VCS at HuaaoTech",
