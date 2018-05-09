@@ -69,7 +69,7 @@
       "photo": ""
     },
     {
-      "title": "WWDC",
+      "title": "WWDC 2017",
       "content": "抽空看了点WWDC视频;<br>这个CoreML实在是好用啊;<br>想来之前写了那么些ocr相关的处理都浪费了, 现在一个Vision就可以简简单单的做 :(<br>引起兴趣的是Caffe/Keras/XGBoost/turi的社区数据.",
       "timestamp": "Tuesday, August 15, 2017",
       "photo": ""
