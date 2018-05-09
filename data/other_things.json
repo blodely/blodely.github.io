@@ -40,7 +40,7 @@
     },
     {
       "title": "GitHub: LYCore",
-      "content": "开源一个Core库,<br>感觉每个App都应该来一个;<br>只需一行pod.<br>",
+      "content": "开源一个Core库,<br>感觉每个App都应该来一个;<br>只需一行pod, 便可方便的集成基础的UI配置, 网络设置, 请求client, 配置文件读写, 用户鉴权状态, etc.<br>",
       "timestamp": "Tuesday, April 17, 2018",
       "photo": ""
     },
