@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>九月十日先生的CV - mobile版</title>
+<script src="js/jquery-3.3.1.min.js"></script>
+<link rel="stylesheet" type="text/css" href="semantic/semantic.min.css">
+<script src="semantic/semantic.min.js"></script>
+<link rel="shortcut icon" href="Icon.png">
+</head>
+<body>
+
+<div class="ui top attached menu">
+<a href="#" class="item active"><i class="home icon"></i>简历</a>
+<a href="other-things.html" class="item"><i class="calendar alternate outline icon"></i>小日志</a>
+<a href="http://blog.luoyu.space" class="right item" target="_blank"><i class="wordpress icon"></i>大博客</a>
+</div>
+
+<br><br><br>
+
+<div class="ui centered grid">
+<div class="twelve wide column">
+
+<div class="ui card">
+	<div class="image">
+	  <img src="img/1422985.png" alt="">
+	</div>
+
+	<div class="content">
+		<div class="header">骆昱(Rick Luo)</div>
+		<div class="meta">Coder & designer</div>
+		<div class="description">
+			Rick is an indie developer living in Wuhan, PRC.
+		</div>
+	</div>
+
+	<div class="extra content">
+		<!-- <span><i class="idea icon"></i></span> -->
+		<span class="right floated">
+			自2011年
+		</span>
+	</div>
+</div>
+
+<div class="ui card">
+<div class="content">
+	<div class="header">联系方式</div>
+</div>
+<div class="content">
+	<h3 class="ui sub header"><i class="mobile alternate icon"></i>电话 Tel</h3>
+	<div class="summary"><a href="tel://+8613986213146">+86-139-8621-3146</a></div>
+</div>
+<div class="content">
+	<h3 class="ui sub header"><i class="envelope outline icon"></i>电邮 Email</h3>
+	<!-- <div class="summary"><a href="mailto:indie.luo@gmail.com">indie.luo@gmail.com</a></div> -->
+	<div class="summary"><a href="mailto:luoyu@luoyu.space">luoyu@luoyu.space</a></div>
+</div>
+<div class="content">
+	<h3 class="ui sub header"><i class="safari icon"></i>网站 Website</h3>
+	<div class="summary"><a href="http://luoyu.space" target="_blank">http://luoyu.space</a></div>
+</div>
+</div><!-- END contact card -->
+
+<div class="ui card">
+<div class="content">
+<div class="header">Opensource at <i class="github icon"></i>Github</div>
+</div>
+<div class="content">
+	<h3 class="ui sub header"><i class="github square icon"></i>LYCategory</h3>
+	<div class="summary"><a href="https://github.com/blodely/LYCategory" target="_blank">github.com/blodely/LYCategory</a></div>
+</div>
+<div class="content">
+	<h3 class="ui sub header"><i class="github square icon"></i>LYCore</h3>
+	<div class="summary"><a href="https://github.com/blodely/LYCore" target="_blank">github.com/blodely/LYCore</a></div>
+</div>
+<div class="content">
+	<h3 class="ui sub header"><i class="github square icon"></i>ConfigKit</h3>
+	<div class="summary"><a href="https://github.com/blodely/ConfigKit" target="_blank">github.com/blodely/ConfigKit</a></div>
+</div>
+<div class="content">
+	<h3 class="ui sub header">See all repos..</h3>
+	<div class="summary"><a href="https://github.com/blodely?tab=repositories" target="_blank">github.com/blodely</a></div>
+</div>
+</div><!-- END opsrc card -->
+
+<div class="ui segment">
+<div class="ui divided items" id="cv-exp">
+
+<div class="item">
+	<div class="content">
+		<h2 class="ui header">Experience</h1>
+	</div>
+</div>
+
+<!-- div.item>div.ui-tiny-image+div.content>div.header+div.description+div.meta -->
+<script type="text/javascript">
+$.getJSON('./data/cv_experience.json', function(result) {
+	for (idx in result["data"]) {
+		var item = result["data"][idx];
+		$("#cv-exp").append("<div class=\"item\">\
+		<div class=\"ui tiny image\">\
+			<img src=\"" + item["icon"] + "\" alt=\"\">\
+		</div>\
+		<div class=\"content\">\
+			<div class=\"header\"><i class=\"tag icon\"></i>" + item["name"] + "</div>\
+			<div class=\"description\">" + item["en_name"] + "</div>\
+			<div class=\"meta\">" + item["duration"] + "</div>\
+			<div class=\"description\">" + item["description"] + "</div>\
+		</div>\
+		</div>");
+	}
+});
+</script>
+
+</div><!-- ui items -->
+</div><!-- segment -->
+
+<div class="ui segment">
+
+<div class="ui divided items" id="cv-projects">
+
+<div class="item">
+<div class="content">
+	<h2 class="ui header">Projects | 项目</h1>
+</div>
+</div>
+
+<!-- div.item>div.ui.tiny.rounded.image+div.content>div.header+div.meta+div.description -->
+<!-- <i class="app store icon"></i> -->
+<!-- target="_blank" -->
+<script type="text/javascript">
+$.getJSON('./data/cv_projects.json', function(result) {
+	for (idx in result["data"]) {
+		var item = result["data"][idx];
+		$("#cv-projects").append("<div class=\"item\">\
+		<div class=\"ui tiny rounded image\">\
+			<img src=\"" + item["icon"] + "\" alt=\"\">\
+		</div>\
+		<div class=\"content\">\
+			<div class=\"header\">"+ item["name"] + "</div>\
+				<div class=\"meta\"><i class=\"app store icon\"></i>\
+				地址: <a href=\"" + item["url"] + " target=\"_blank\">" + item["url"].substr(8) + "</a>\
+			</div>\
+			<div class=\"description\">" + item["description"] + "</div>\
+		</div>\
+		</div>");
+	}
+});
+</script>
+
+</div><!-- items -->
+</div><!-- segment -->
+
+</div>
+</div>
+
+<br><br>
+
+<div class="ui divider"></div><!-- footer divider -->
+
+<div class="ui centered container" style="font-family:Georgia; color:grey;">
+
+<div class="content">
+	<div>本页使用HTML + CSS + JavaScript + jQuery + Semantic UI手写而成. Editor: Atom</div>
+	<br>
+	<div>Copyright © 2018, 骆昱 (Luo Yu).</div>
+</div>
+
+</div>
+
+<br><br>
+
+</body>
+</html>
