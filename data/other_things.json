@@ -3,6 +3,12 @@
   "msg": "Success",
   "data": [
 		{
+			"title":"GitHub: PreferencesKit",
+			"content":"之前在HA时想着根据配置文件生成设置界面的库, 当时只定义好配置文件的结构, 写完了配置文件的读取/写入. 最近在补, 写了一部分配置的界面生成, 还剩下交互操作, 下个月写完吧.",
+			"timestamp":"Tuesday, August 14, 2018",
+			"photo":""
+		},
+		{
 			"title":"Jail",
 			"content":"想起08年夏天泡在图书馆里看BSD书籍时跳过去的这个; 今天才用上! root安全的虚拟化.",
 			"timestamp":"Thursday, May 17, 2018",
