@@ -6,8 +6,8 @@
 			"title":"神经漫游者三部曲",
 			"content":"比较喜欢cyberpunk的小说, <del>今天不想上班,</del> 复看这个系列.",
 			"timestamp":"Friday, August 17, 2018",
-			"photo":""
-		}
+			"photo":"./img/ot/ot-cyberpunk-books.jpg"
+		},
 		{
 			"title":"GitHub: PreferencesKit",
 			"content":"之前在HA时想着根据配置文件生成设置界面的库, 当时只定义好配置文件的结构, 写完了配置文件的读取/写入. 最近在补, 写了一部分配置的界面生成, 还剩下交互操作, 下个月写完吧.",
