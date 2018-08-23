@@ -20,6 +20,12 @@
 			"timestamp":"Thursday, May 17, 2018",
 			"photo":"./img/ot/ot-freebsd-jail.jpg"
 		},
+		{
+			"title":"显卡驱动",
+			"content":"",
+			"timestamp":"",
+			"photo":""
+		},
     {
       "title":"scrapy",
       "content":"一个小工具, 用它来爬取网络上的数据; 要拿来供给程序学习.",
