@@ -22,9 +22,9 @@
 		},
 		{
 			"title":"显卡驱动",
-			"content":"",
-			"timestamp":"",
-			"photo":""
+			"content":"笔记本显卡有官方驱动.",
+			"timestamp":"Tuesday, May 08, 2018",
+			"photo":"./img/ot/ot-vc-driver.jpg"
 		},
     {
       "title":"scrapy",
