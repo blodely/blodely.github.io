@@ -2,6 +2,13 @@
   "code": "0",
   "msg": "Success",
   "data": [
+		{
+			"icon":"img/company/logo-zhuxiang.png",
+			"name":"武汉诸相网络科技有限公司",
+			"en_name":"Wuhan Zhu Xiang Network Technology Co., Ltd.",
+			"duration": "2018年04月 ~ 至今",
+			"description": "独立iOS开发(设计到实现).<br>ADP账号申请;<br>应对应用商店审核问题;<br><del>壳应用设计.</del><br>"
+		},
     {
       "icon": "img/company/logo-huaao.png",
       "name": "湖北华奥安防科技运营股份有限公司",
