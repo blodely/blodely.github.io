@@ -2,6 +2,12 @@
   "code": "0",
   "msg": "Success",
   "data": [
+		{
+			"name":"虚贝租号",
+			"icon":"img/xbapp/xb-00.jpg",
+			"url":"https://itunes.apple.com/cn/app/id1411194207",
+			"description":"虚贝租号的iOS App."
+		},
     {
       "name": "阳光微警务",
       "icon": "img/ygwjw/yg-00.jpg",
