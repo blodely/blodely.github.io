@@ -2,6 +2,12 @@
   "code": "0",
   "msg": "Success",
   "data": [
+    {
+      "title":"kaggle",
+      "content":"花了大量时间在浏览kaggle, <br>感谢各个贡献数据的人!<br>(开心😊<br>",
+      "timestamp":"Thursday, September 6, 2018",
+      "photo":"./img/ot/ot-kaggle.jpg"
+    },
 		{
 			"title":"神经漫游者三部曲",
 			"content":"比较喜欢cyberpunk的小说, <del>今天不想上班,</del> 复看这个系列.",
