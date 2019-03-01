@@ -11,6 +11,26 @@
       "coat":"",
       "pattern":"",
       "photo":""
+    },
+    {
+      "breed":"Abyssinian",
+      "breed_zh":"阿比西尼亚猫",
+      "country":"Ethiopia",
+      "origin":"natural",
+      "body_type":"oriental",
+      "coat":"short",
+      "pattern":"ticked",
+      "photo":""
+    },
+    {
+      "breed":"Aegean",
+      "breed_zh":"爱琴海猫",
+      "country":"Greece",
+      "origin":"natural",
+      "body_type":"",
+      "coat":"semi-long",
+      "pattern":"bicolored or tricolored",
+      "photo":""
     }
   ]
 }
