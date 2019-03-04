@@ -31,6 +31,46 @@
       "coat":"semi-long",
       "pattern":"bicolored or tricolored",
       "photo":""
+    },
+    {
+      "breed":"American Curl",
+      "breed_zh":"",
+      "country":"United States",
+      "origin":"mutation",
+      "body_type":"",
+      "coat":"short/long",
+      "pattern":"all",
+      "photo":""
+    },
+    {
+      "breed":"American Bobtail",
+      "breed_zh":"美国短尾猫",
+      "country":"United States",
+      "origin":"mutation",
+      "body_type":"",
+      "coat":"short/long",
+      "pattern":"all",
+      "photo":""
+    },
+    {
+      "breed":"",
+      "breed_zh":"美国短毛猫",
+      "country":"United States",
+      "origin":"natural",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"all but colorpoint",
+      "photo":""
+    },
+    {
+      "breed":"",
+      "breed_zh":"美国硬毛猫",
+      "country":"United States",
+      "origin":"mutation",
+      "body_type":"",
+      "coat":"rex",
+      "pattern":"all but colorpoint",
+      "photo":""
     }
   ]
 }
