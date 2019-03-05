@@ -71,6 +71,66 @@
       "coat":"rex",
       "pattern":"all but colorpoint",
       "photo":""
+    },
+    {
+      "breed":"Aphrodite Giant",
+      "breed_zh":"",
+      "country":"Cyprus",
+      "origin":"natural",
+      "body_type":"lean and muscular",
+      "coat":"All",
+      "pattern":"all but cinammon and chocolate",
+      "photo":""
+    },
+    {
+      "breed":"Arabian Mau",
+      "breed_zh":"",
+      "country":"Arabian Peninsula",
+      "origin":"natural",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"",
+      "photo":""
+    },
+    {
+      "breed":"Australian Mist",
+      "breed_zh":"澳大利亚雾猫",
+      "country":"Australia",
+      "origin":"crossbreed: Abyssinian and Burmese",
+      "body_type":"moderate",
+      "coat":"short",
+      "pattern":"spotted or tabby",
+      "photo":""
+    },
+    {
+      "breed":"Asian",
+      "breed_zh":"亚洲猫",
+      "country":"Developed in the United Kingdom (foundation stock from Asia)",
+      "origin":"",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"evenly solid",
+      "photo":""
+    },
+    {
+      "breed":"Asian Semi-longhair",
+      "breed_zh":"亚洲半长毛猫",
+      "country":"United Kingdom",
+      "origin":"crossbreed: Burmese and long-haired cats",
+      "body_type":"",
+      "coat":"semi-long",
+      "pattern":"evenly solid",
+      "photo":""
+    },
+    {
+      "breed":"Balinese",
+      "breed_zh":"巴厘猫",
+      "country":"Developed in the United States (foundation stock from Thailand)",
+      "origin":"",
+      "body_type":"oriental",
+      "coat":"long",
+      "pattern":"colorpoint",
+      "photo":""
     }
   ]
 }
