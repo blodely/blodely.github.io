@@ -131,6 +131,16 @@
       "coat":"long",
       "pattern":"colorpoint",
       "photo":""
+    },
+    {
+      "breed":"Bambino",
+      "breed_zh":"巴比诺猫",
+      "country":"United States",
+      "origin":"crossbreed: Munchkin and Sphynx",
+      "body_type":"dwarf",
+      "coat":"hairless or downy",
+      "pattern":"",
+      "photo":""
     }
   ]
 }
