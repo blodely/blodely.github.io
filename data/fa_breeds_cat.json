@@ -141,6 +141,16 @@
       "coat":"hairless or downy",
       "pattern":"",
       "photo":""
+    },
+    {
+      "breed":"Bengal",
+      "breed_zh":"",
+      "country":"Developed in the United States (foundation stock from Asia)",
+      "origin":"Hybrid: Abyssinian and Egyptian Mau × leopard cat (Prionailurus bengalensis)",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"spotted, marbled, or rosetted",
+      "photo":""
     }
   ]
 }
