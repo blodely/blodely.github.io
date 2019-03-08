@@ -151,6 +151,16 @@
       "coat":"short",
       "pattern":"spotted, marbled, or rosetted",
       "photo":""
+    },
+    {
+      "breed":"Birman",
+      "breed_zh":"伯曼猫",
+      "country":"Developed in France (foundation stock from Burma, etc.)",
+      "origin":"Crossbreed: original Birman (near extinction) with Persian and Siamese",
+      "body_type":"",
+      "coat":"semi-long",
+      "pattern":"colorpoint",
+      "photo":""
     }
   ]
 }
