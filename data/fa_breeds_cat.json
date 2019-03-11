@@ -161,6 +161,46 @@
       "coat":"semi-long",
       "pattern":"colorpoint",
       "photo":""
+    },
+    {
+      "breed":"Bombay",
+      "breed_zh":"",
+      "country":"Developed in the United States (some foundation stock from Burma and Thailand)",
+      "origin":"Crossbreed: American Shorthair and Burmese",
+      "body_type":"moderate",
+      "coat":"short",
+      "pattern":"solid black",
+      "photo":""
+    },
+    {
+      "breed":"Brazilian Shorthair",
+      "breed_zh":"巴西短毛猫",
+      "country":"Brazil",
+      "origin":"natural",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"all",
+      "photo":""
+    },
+    {
+      "breed":"British Semi-longhair",
+      "breed_zh":"",
+      "country":"United Kingdom",
+      "origin":"",
+      "body_type":"cobby",
+      "coat":"medium",
+      "pattern":"all",
+      "photo":""
+    },
+    {
+      "breed":"British Shorthair",
+      "breed_zh":"英国短毛猫",
+      "country":"United Kingdom",
+      "origin":"natural",
+      "body_type":"cobby",
+      "coat":"short",
+      "pattern":"all",
+      "photo":""
     }
   ]
 }
