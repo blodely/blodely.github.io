@@ -201,6 +201,46 @@
       "coat":"short",
       "pattern":"all",
       "photo":""
+    },
+    {
+      "breed":"British Longhair",
+      "breed_zh":"英国长毛猫",
+      "country":"United Kingdom",
+      "origin":"",
+      "body_type":"cobby",
+      "coat":"long",
+      "pattern":"all",
+      "photo":""
+    },
+    {
+      "breed":"Burmese",
+      "breed_zh":"缅甸猫",
+      "country":"",
+      "origin":"natural",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"solid",
+      "photo":""
+    },
+    {
+      "breed":"Burmilla",
+      "breed_zh":"波米拉猫",
+      "country":"United Kingdom",
+      "origin":"Crossbreed: Burmese and Chinchilla Persian",
+      "body_type":"",
+      "coat":"short/long",
+      "pattern":"solid, in Silver Shaded and Silver Tipped patterns",
+      "photo":""
+    },
+    {
+      "breed":"California Spangled",
+      "breed_zh":"加州闪亮猫",
+      "country":"United States",
+      "origin":"Crossbreed: Abyssinian, American Shorthair and British Shorthair",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"spotted",
+      "photo":""
     }
   ]
 }
