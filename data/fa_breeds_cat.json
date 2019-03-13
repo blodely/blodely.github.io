@@ -241,6 +241,46 @@
       "coat":"short",
       "pattern":"spotted",
       "photo":""
+    },
+    {
+      "breed":"Chantilly-Tiffany",
+      "breed_zh":"查达利猫",
+      "country":"United States",
+      "origin":"",
+      "body_type":"",
+      "coat":"",
+      "pattern":"solid, ticked, spotted and blotched tabby",
+      "photo":""
+    },
+    {
+      "breed":"Chartreux",
+      "breed_zh":"沙特尔猫(法国蓝猫)",
+      "country":"France",
+      "origin":"natural",
+      "body_type":"cobby",
+      "coat":"short",
+      "pattern":"solid blue",
+      "photo":""
+    },
+    {
+      "breed":"Chausie",
+      "breed_zh":"狮子猫",
+      "country":"France",
+      "origin":"Hybrid: Abyssinian× jungle cat (Felis chaus)",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"ticked",
+      "photo":""
+    },
+    {
+      "breed":"Cheetoh",
+      "breed_zh":"",
+      "country":"United States",
+      "origin":"Crossbreed/hybrid: Bengal and Ocicat",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"spotted",
+      "photo":""
     }
   ]
 }
