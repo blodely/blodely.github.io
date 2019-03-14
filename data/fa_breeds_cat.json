@@ -281,6 +281,46 @@
       "coat":"short",
       "pattern":"spotted",
       "photo":""
+    },
+    {
+      "breed":"Cornish Rex",
+      "breed_zh":"康沃耳帝王猫",
+      "country":"United Kingdom (England)",
+      "origin":"Mutation",
+      "body_type":"",
+      "coat":"rex",
+      "pattern":"all",
+      "photo":""
+    },
+    {
+      "breed":"Cymric or Manx Longhair",
+      "breed_zh":"威尔士猫/长毛曼岛猫",
+      "country":"United Kingdom (Isle of Man), and Canada",
+      "origin":"Mutation, from original Manx",
+      "body_type":"",
+      "coat":"long",
+      "pattern":"all but colorpoint",
+      "photo":""
+    },
+    {
+      "breed":"Cyprus",
+      "breed_zh":"",
+      "country":"Cyprus",
+      "origin":"natural",
+      "body_type":"lean and muscular",
+      "coat":"all",
+      "pattern":"all but colorpoint and mink",
+      "photo":""
+    },
+    {
+      "breed":"Devon Rex",
+      "breed_zh":"德文帝王猫",
+      "country":"United Kingdom (England)",
+      "origin":"Mutation",
+      "body_type":"oriental",
+      "coat":"rex",
+      "pattern":"all",
+      "photo":""
     }
   ]
 }
