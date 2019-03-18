@@ -316,10 +316,40 @@
       "breed":"Devon Rex",
       "breed_zh":"德文帝王猫",
       "country":"United Kingdom (England)",
-      "origin":"Mutation",
+      "origin":"mutation",
       "body_type":"oriental",
       "coat":"rex",
       "pattern":"all",
+      "photo":""
+    },
+    {
+      "breed":"Donskoy or Don Sphynx",
+      "breed_zh":"顿斯科伊猫",
+      "country":"Russia",
+      "origin":"",
+      "body_type":"",
+      "coat":"hairless",
+      "pattern":"",
+      "photo":""
+    },
+    {
+      "breed":"Dragon Li or Chinese Li Hua",
+      "breed_zh":"中国狸花猫",
+      "country":"China",
+      "origin":"natural",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"striped tabby",
+      "photo":""
+    },
+    {
+      "breed":"Dwelf",
+      "breed_zh":"",
+      "country":"",
+      "origin":"Crossbreed: American Curl, Munchkin and Sphinx",
+      "body_type":"dwarf",
+      "coat":"hairless",
+      "pattern":"",
       "photo":""
     }
   ]
