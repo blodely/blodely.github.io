@@ -351,6 +351,36 @@
       "coat":"hairless",
       "pattern":"",
       "photo":""
+    },
+    {
+      "breed":"Egyptian Mau",
+      "breed_zh":"埃及猫",
+      "country":"Egypt",
+      "origin":"natural",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"spotted",
+      "photo":""
+    },
+    {
+      "breed":"European Shorthair",
+      "breed_zh":"欧洲短毛猫",
+      "country":"Finland and Sweden",
+      "origin":"natural",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"All but chocolate, lilac, cinnamon, fawn, amber, ticked, or colorpoint",
+      "photo":""
+    },
+    {
+      "breed":"Exotic Shorthair",
+      "breed_zh":"异国短毛猫",
+      "country":"United States",
+      "origin":"Crossbreed: American Shorthair and Persian",
+      "body_type":"cobby",
+      "coat":"short",
+      "pattern":"all",
+      "photo":""
     }
   ]
 }
