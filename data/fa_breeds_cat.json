@@ -381,6 +381,46 @@
       "coat":"short",
       "pattern":"all",
       "photo":""
+    },
+    {
+      "breed":"Foldex",
+      "breed_zh":"",
+      "country":"Canada",
+      "origin":"Crossbreed: Exotic Shorthair and Scottish Fold",
+      "body_type":"cobby",
+      "coat":"short",
+      "pattern":"all",
+      "photo":""
+    },
+    {
+      "breed":"German Rex",
+      "breed_zh":"德国卷毛猫",
+      "country":"East Germany",
+      "origin":"mutation",
+      "body_type":"",
+      "coat":"rex",
+      "pattern":"all",
+      "photo":""
+    },
+    {
+      "breed":"Havana Brown",
+      "breed_zh":"哈瓦那棕猫",
+      "country":"United Kingdom",
+      "origin":"Crossbreed: Siamese and black short-haired cats",
+      "body_type":"",
+      "coat":"short",
+      "pattern":"solid brown",
+      "photo":""
+    },
+    {
+      "breed":"Highlander",
+      "breed_zh":"",
+      "country":"United States",
+      "origin":"Crossbreed/hybrid: Desert Lynx and Jungle Curl",
+      "body_type":"moderate",
+      "coat":"short/long",
+      "pattern":"all",
+      "photo":""
     }
   ]
 }
