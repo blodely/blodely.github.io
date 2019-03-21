@@ -421,6 +421,26 @@
       "coat":"short/long",
       "pattern":"all",
       "photo":""
+    },
+    {
+      "breed":"Himalayan or Colorpoint Persian",
+      "breed_zh":"喜马拉雅猫",
+      "country":"United States and United Kingdom",
+      "origin":"Crossbreed: Persian and Siamese",
+      "body_type":"cobby",
+      "coat":"long",
+      "pattern":"colorpoint",
+      "photo":""
+    },
+    {
+      "breed":"Japanese Bobtail",
+      "breed_zh":"日本短尾猫/日本截尾猫",
+      "country":"Japan",
+      "origin":"natural, mutation",
+      "body_type":"moderate",
+      "coat":"short/long",
+      "pattern":"all but colorpoint and ticked",
+      "photo":""
     }
   ]
 }
