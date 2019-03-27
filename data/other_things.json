@@ -32,6 +32,12 @@
 			"timestamp":"Thursday, May 17, 2018",
 			"photo":"./img/ot/ot-freebsd-jail.jpg"
 		},
+    {
+      "title":"狗狗品种数据采集",
+      "content":"在网络上到处搜罗可靠数据, 凑了20K多张、100+狗狗品种照片数据.<br>花了一个多星期的时间.<br>",
+      "timestamp":"Tuesday, May 15, 2018",
+      "photo":"./img/ot/ot-dog-breed.jpg"
+    },
 		{
 			"title":"显卡驱动",
 			"content":"笔记本显卡有官方驱动.",
