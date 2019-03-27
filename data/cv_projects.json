@@ -2,6 +2,12 @@
   "code": "0",
   "msg": "Success",
   "data": [
+    {
+      "name":"宠优优",
+      "icon":"img/cyy/cyy-00.jpg",
+      "url":"https://itunes.apple.com/cn/app/id1445507544",
+      "description":"宠优优iOS App."
+    },
 		{
 			"name":"虚贝租号",
 			"icon":"img/xbapp/xb-00.jpg",
