@@ -12,7 +12,7 @@
 			"name":"虚贝租号",
 			"icon":"img/xbapp/xb-00.jpg",
 			"url":"https://itunes.apple.com/cn/app/id1411194207",
-			"description":"虚贝租号的iOS App."
+			"description":"虚贝租号的iOS App.<br><br>- 手撸了一个类似“马甲包”的功能, 一部分应用功能&界面用于审核, 然后再一个异步线程循环检查一个开关接口的状态, 通过远端开启App界面的切换.<br>- 使用Cocoapods管理的模块化设计的App.<br>- 原生Objective-C实现.<br>- 使用LYCategory工具集.<br>- 使用LYCore作为App状态核心.<br>- 通过LYCore的API层使用AFNetworking 3.x使用网络层.<br>"
 		},
     {
       "name": "阳光微警务",
