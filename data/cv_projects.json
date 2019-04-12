@@ -6,7 +6,7 @@
       "name":"宠优优",
       "icon":"img/cyy/cyy-00.jpg",
       "url":"https://itunes.apple.com/cn/app/id1445507544",
-      "description":"宠优优iOS App.<br>项目包含短视频录制/编辑/播放, 等相关功能.<br>项目主要是用Objective-C进行编写. 通过Cocoapods管理依赖, 部分变动较少的组件也以pod形式组织进项目.<br><br>"
+      "description":"宠优优iOS App.<br>项目包含短视频录制/编辑/播放, 等相关功能.<br>项目主要是用Objective-C进行编写.<br>通过Cocoapods管理依赖, 部分变动较少的组件也以pod形式组织进项目.<br>使用分离的项目进行Pods库的预编译, 将生产的frameworks作为本地库导入App项目. 提升工程编译速度.<br>在Realm数据库, 根据用户进行分离的缓存数据设计.<br>设计草稿文件组织结构与独立的上传发布任务队列.<br><br>"
     },
 		{
 			"name":"虚贝租号",
