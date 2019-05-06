@@ -31,7 +31,7 @@
 </div><!-- end of ui-centered-grid -->
 
 <script type="text/javascript">
-$.getJSON('./data/other_things.json', function(result) {
+$.getJSON('./data/opensource.json', function(result) {
 	for (idx in result["data"]) {
 		var item = result["data"][idx];
     var colname;
@@ -41,7 +41,19 @@ $.getJSON('./data/other_things.json', function(result) {
       colname = "#card-col-0";
     }
 
-    $(colname).append("");
+    $(colname).append("\
+    <div class=\"ui card\">\
+      <div class=\"content\"><h3 class=\"header\">" + item["title"] + "</h3></div>\
+      " + (item["photo"] != '' ? "<div class=\"image\"><img src=\"" + item["photo"] + "\" alt=\"\" /></div>" : "")+ "\
+      <div class=\"content\">\
+        <div class=\"header\"></div>\
+        <div class=\"description\">" + item["content"] + "</div>\
+      </div>\
+      <div class=\"extra content\">\
+        <div class=\"right floated meta\">" + item["timestamp"] + "</div>\
+      </div>\
+    </div>\
+    ");
   }
 });
 </script>
