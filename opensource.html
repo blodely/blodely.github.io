@@ -19,5 +19,32 @@
 <a href="http://blog.luoyu.space" class="right item" target="_blank"><i class="wordpress icon"></i>大博客</a>
 </div>
 
+<br><br><br>
+
+<div class="ui centered grid">
+
+<div class="two wide column" id="card-col-0">
+</div>
+<div class="two wide column" id="card-col-1">
+</div>
+
+</div><!-- end of ui-centered-grid -->
+
+<script type="text/javascript">
+$.getJSON('./data/other_things.json', function(result) {
+	for (idx in result["data"]) {
+		var item = result["data"][idx];
+    var colname;
+    if (idx % 2 == 0) {
+      colname = "#card-col-1";
+    } else {
+      colname = "#card-col-0";
+    }
+
+    $(colname).append("");
+  }
+});
+</script>
+
 </body>
 </html>
