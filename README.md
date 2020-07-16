@@ -12,11 +12,11 @@ Powered by Github pages;
 
 平时会常常这弄弄那弄弄, 工作之余的一点和技术沾边的事, 就做一个流水账一样的记录吧.
 
-放在这里→ [other things](http://cv.luoyu.space/other-things.html)
+放在这里→ [other things](https://open.luoyu.space/other-things.html)
 
 ### Author
 
-[Luo Yu](http://luoyu.space)
+[Luo Yu](https://luoyu.space)
 
 Email: [indie.luo@gmail.com](mailto:indie.luo@gmail.com)
 
