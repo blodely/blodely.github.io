@@ -3,6 +3,13 @@
   "msg": "Success",
   "data": [
     {
+      "icon":"",
+      "name":"独立iOS技术顾问",
+      "en_name":"Indie iOS Consultant",
+      "duration":"2020年5月 ~ 至今",
+      "description":"独立承接外包项目."
+    },
+    {
       "icon":"img/company/logo-dealuck.png",
       "name":"武汉兑鹿科技有限公司",
       "en_name":"Wuhan Dealuck Technology Co., Ltd.",
