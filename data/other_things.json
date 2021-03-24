@@ -3,6 +3,12 @@
   "msg": "Success",
   "data": [
     {
+      "title":"升级支持Xcode 12",
+      "content":"接手了一个外包项目, 花了一整天时间梳理项目. 其中就包括新Xcode和版本的适配. 然后还有依赖库的升级适配. 比如升级项目里的AFNetworking至4.0.1, 使用的融云SDK由2.x至5.x等等.",
+      "timestamp":"Wednesday, March 24, 2021",
+      "photo":""
+    },
+    {
       "title":"FlexBox",
       "content":"机缘巧合为了个站更优布局方式而调研时发现了FlexBox, 继而发现它有iOS的实现. 并发现它的速度远快过AutoLayout. 搁置了几年, 最近希望优化手头项目瀑布流Cell的布局. 准备尝试使用facebook/Yoga实现.",
       "timestamp":"Sunday, May 12, 2019",
