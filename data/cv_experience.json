@@ -21,21 +21,21 @@
       "name": "湖北华奥安防科技运营股份有限公司",
       "en_name": "Hubei Huaao Security Technology Operation Co., Ltd",
       "duration": "2016年6月 ~ 2018年09月",
-      "description": "在该公司主要负责iOS项目相关事宜，包括研究相关技术，项目架构设计，项目研发计划，带领iOS研发团队，和实际编码等工作。<br>主要工作内容有:<br>1 公司移动平台(iOS方向)相关技术解决方案的研究，分析问题解决问题;<br>2 iOS研发team leader; 制定日常的开发计划与任务;<br>3 iOS团队培训, 帮助成员技术成长;<br>4 技术面试, 协助人才资源管理;<br>5 工程架构设计，框架搭建，实际编码等;<br>6 公司VCS系统(gitlab, gitblit)，CI系统(jenkins)的构建，引入git flow; 解决了公司代码编码与管理上的规范化问题；<br>7 基于git、私有Cocoapods的原生语言的模块化设计与开发; 模块化设计给公司产品的功能组建的能力;<br>8 基于WebRTC的视频通话开发;<br>9 iPhone摄像头OCR光学识别(tessact-ocr, GPUImage, ImageMagick);<br>10 推动公司转型agile(scrum).<br>"
+      "description": "在该公司主要负责iOS项目相关事宜，包括研究相关技术，项目架构设计，项目研发计划，带领iOS研发团队，和实际编码等工作。<br>主要工作内容有:<br>1. 公司移动平台(iOS方向)相关技术解决方案的研究，分析问题解决问题;<br>2. iOS研发team leader; 制定日常的开发计划与任务;<br>3. iOS团队培训, 帮助成员技术成长;<br>4. 技术面试, 协助人才资源管理;<br>5. 工程架构设计，框架搭建，实际编码等;<br>6. 公司VCS系统(gitlab, gitblit)，CI系统(jenkins)的构建，引入git flow; 解决了公司代码编码与管理上的规范化问题；<br>7. 基于git、私有Cocoapods的原生语言的模块化设计与开发; 模块化设计给公司产品的功能组建的能力;<br>8. 基于WebRTC的视频通话开发;<br>9. iPhone摄像头OCR光学识别(tessact-ocr, GPUImage, ImageMagick);<br>10. 推动公司转型agile(scrum).<br>"
     },
     {
       "icon": "img/wireframe/image.png",
       "name": "独立iOS技术顾问",
       "en_name": "",
       "duration": "2014年4月 ~ 2016年5月",
-      "description": "1、武汉艾肯迪信息科技有限公司<br>独立负责PP语音iOS应用的架构设计与编码实现，发布上线等，参与移动平台产品设计的评审.<br><br>2、武汉华中时讯科技有限责任公司<br>复省代码(Review)与重构(Refactoring).<br><br>3、武汉由米定制科技有限公司<br>独立负责公司的iOS应用(趣省)，从架构到编码、发布、迭代维护等; 参与移动应用产品的需求评审，设计评审等.<br><br>4、武汉诸相网络科技有限公司<br>Wuhan Zhu Xiang Network Technology Co., Ltd.<br>独立iOS开发(设计到实现).<br>ADP账号申请;<br>应对应用商店审核问题;<br><del>壳应用设计.</del><br>(更新至1.3.2版)<br>"
+      "description": "1. 武汉艾肯迪信息科技有限公司<br>独立负责PP语音iOS应用的架构设计与编码实现，发布上线等，参与移动平台产品设计的评审.<br><br>2. 武汉华中时讯科技有限责任公司<br>复省代码(Review)与重构(Refactoring).<br><br>3. 武汉由米定制科技有限公司<br>独立负责公司的iOS应用(趣省)，从架构到编码、发布、迭代维护等; 参与移动应用产品的需求评审，设计评审等.<br><br>4. 武汉诸相网络科技有限公司<br>Wuhan Zhu Xiang Network Technology Co., Ltd.<br>独立iOS开发(设计到实现).<br>ADP账号申请;<br>应对应用商店审核问题;<br><del>壳应用设计.</del><br>(更新至1.3.2版)<br>"
     },
     {
       "icon": "img/company/logo-bbt.png",
       "name": "武汉兄弟桥科技发展有限公司",
       "en_name": "Brothers Bridge Technology, LLC",
       "duration": "2013年3月 ~ 2014年4月",
-      "description": "1 独立负责公司对美合作项目的iOS应用开发工作;<br>2 参与公司技术标准的制定, 负责移动应用iOS方向;<br>"
+      "description": "1. 独立负责公司对美合作项目的iOS应用开发工作;<br>2. 参与公司技术标准的制定, 负责移动应用iOS方向;<br>"
     },
     {
       "icon": "img/company/logo-kotei.jpg",
